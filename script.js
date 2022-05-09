@@ -34,4 +34,5 @@ formulario.addEventListener('submit', function (event) {
     event.preventDefault();
 
     cadastrar();
+    limpar();
 });
